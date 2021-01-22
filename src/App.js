@@ -1,7 +1,5 @@
-// import logo from './logo.svg';
 import './App.css';
 import * as React from 'react';
-// import REACT_APP_MAPBOX_ACCESS_TOKEN from '../env.local';  
 import Preview from './components/Preview';
 import Map from './components/Map';
 import Sidebar from './components/Sidebar';

@@ -8,8 +8,7 @@ function Map({ viewport, setViewport, points, onSelectPlace, selectedPlace, clos
     return (
         <ReactMapGL
             {...viewport}
-            // mapboxApiAccessToken={process.env.APP_MAPBOX_ACCESS_TOKEN}
-            mapboxApiAccessToken="pk.eyJ1Ijoicm9kaW9uMjUiLCJhIjoiY2trNzF4cTlpMDlzYjJ3cDhsMXcxMWk2ZCJ9.zrIlhDNHERoX5_cCAXu27g"
+            mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
             width="70%"
             height="100vh"
             onViewportChange={(viewport) => setViewport(viewport)}
