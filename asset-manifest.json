@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/react-mapbox/static/css/main.f556def4.chunk.css",
-    "main.js": "/react-mapbox/static/js/main.dee322a0.chunk.js",
-    "main.js.map": "/react-mapbox/static/js/main.dee322a0.chunk.js.map",
+    "main.css": "/react-mapbox/static/css/main.763063e8.chunk.css",
+    "main.js": "/react-mapbox/static/js/main.12032304.chunk.js",
+    "main.js.map": "/react-mapbox/static/js/main.12032304.chunk.js.map",
     "runtime-main.js": "/react-mapbox/static/js/runtime-main.89e7be9e.js",
     "runtime-main.js.map": "/react-mapbox/static/js/runtime-main.89e7be9e.js.map",
-    "static/js/2.f8f84dc8.chunk.js": "/react-mapbox/static/js/2.f8f84dc8.chunk.js",
-    "static/js/2.f8f84dc8.chunk.js.map": "/react-mapbox/static/js/2.f8f84dc8.chunk.js.map",
+    "static/css/2.bdb85385.chunk.css": "/react-mapbox/static/css/2.bdb85385.chunk.css",
+    "static/js/2.295d4437.chunk.js": "/react-mapbox/static/js/2.295d4437.chunk.js",
+    "static/js/2.295d4437.chunk.js.map": "/react-mapbox/static/js/2.295d4437.chunk.js.map",
     "index.html": "/react-mapbox/index.html",
-    "static/css/main.f556def4.chunk.css.map": "/react-mapbox/static/css/main.f556def4.chunk.css.map",
-    "static/js/2.f8f84dc8.chunk.js.LICENSE.txt": "/react-mapbox/static/js/2.f8f84dc8.chunk.js.LICENSE.txt",
+    "static/css/2.bdb85385.chunk.css.map": "/react-mapbox/static/css/2.bdb85385.chunk.css.map",
+    "static/css/main.763063e8.chunk.css.map": "/react-mapbox/static/css/main.763063e8.chunk.css.map",
+    "static/js/2.295d4437.chunk.js.LICENSE.txt": "/react-mapbox/static/js/2.295d4437.chunk.js.LICENSE.txt",
     "static/media/star.7da3171b.png": "/react-mapbox/static/media/star.7da3171b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.89e7be9e.js",
-    "static/js/2.f8f84dc8.chunk.js",
-    "static/css/main.f556def4.chunk.css",
-    "static/js/main.dee322a0.chunk.js"
+    "static/css/2.bdb85385.chunk.css",
+    "static/js/2.295d4437.chunk.js",
+    "static/css/main.763063e8.chunk.css",
+    "static/js/main.12032304.chunk.js"
   ]
 }
