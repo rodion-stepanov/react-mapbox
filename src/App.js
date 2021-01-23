@@ -27,7 +27,6 @@ function App() {
     setSelectedPlace(null)
   }
 
-
   return (
     <div className="app">
       <Preview onClose={closePreview} isPreviewOpen={isPreviewOpen} />
