@@ -5,14 +5,14 @@
 На сайте возможно посмотреть туристические места Калининграда с рейтингом.
 Места отображаются на карте и списком.
 
-Доступен по адресу: https://rodion257.github.io/react-mapbox/
+Доступен по адресу: https://rodion-stepanov.github.io/react-mapbox/
 
 ## Технологии
 Проект сделан на React с использованием react-map-gl
 
 ## Установка 
 1. Клонировать этот репозиторий:
-    + git clone https://github.com/Rodion257/react-mapbox.git
+    + git clone https://github.com/rodion-stepanov/react-mapbox.git
 2. Установить зависимости:
     + npm install
 3. Запустить проект: 
